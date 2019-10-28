@@ -1,0 +1,8 @@
+
+Date: 10-25-2019
+Users Involved: Preston, Jeremy, Tom, FROM Preston: I will be showing off the functionality of this chatting application. This line is showing off how a user can type more that one line before sending if they need to.
+FROM Jeremy: Hello my name is Jeremy.
+FROM Tom: I am the one known as and referred to as Tom.
+FROM Karen: My name is Karen. You may refer to me as such.
+FROM Preston: After typing this line the client will display the chat log starting from the last time I sent a message.
+FROM Preston: Now when I finish typing I should only see this line.
